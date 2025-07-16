@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:59458/pansyclub.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:59458/pansyclub.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/community/</loc>
+    <loc>http://localhost:59458/pansyclub.github.io/community/</loc>
   </url><url>
-    <loc>http://localhost:1313/connect/</loc>
+    <loc>http://localhost:59458/pansyclub.github.io/connect/</loc>
   </url><url>
-    <loc>http://localhost:1313/events/</loc>
+    <loc>http://localhost:59458/pansyclub.github.io/events/</loc>
   </url><url>
-    <loc>http://localhost:1313/memberships/</loc>
+    <loc>http://localhost:59458/pansyclub.github.io/memberships/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:59458/pansyclub.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:59458/pansyclub.github.io/tags/</loc>
   </url>
 </urlset>
