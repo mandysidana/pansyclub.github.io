@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://2lavenders.online/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://2lavenders.online/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/community/</loc>
+    <loc>https://2lavenders.online/community/</loc>
   </url><url>
-    <loc>http://localhost:1313/connect/</loc>
+    <loc>https://2lavenders.online/connect/</loc>
   </url><url>
-    <loc>http://localhost:1313/events/</loc>
+    <loc>https://2lavenders.online/events/</loc>
   </url><url>
-    <loc>http://localhost:1313/memberships/</loc>
+    <loc>https://2lavenders.online/memberships/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://2lavenders.online/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://2lavenders.online/tags/</loc>
   </url>
 </urlset>
