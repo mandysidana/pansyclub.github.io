@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pansy Club</title>
-    <link>http://localhost:59458/pansyclub.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Pansy Club</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:59458/pansyclub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:59458/pansyclub.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59458/pansyclub.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Pansy Club is a community-based arts and crafts studio where creativity thrives. Our mission is to bring people together to explore, learn, and share the joy of crafting. Whether you are a beginner or an experienced artist, you are welcome to join our workshops, events, and vibrant community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Community</title>
-      <link>http://localhost:59458/pansyclub.github.io/community/</link>
+      <link>http://localhost:1313/community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59458/pansyclub.github.io/community/</guid>
+      <guid>http://localhost:1313/community/</guid>
       <description>&lt;p&gt;Our community is at the heart of Pansy Club. Join us to connect with fellow crafters, share your projects, and participate in collaborative art initiatives. We encourage members to contribute ideas, lead workshops, and help shape the future of our creative space.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Connect</title>
-      <link>http://localhost:59458/pansyclub.github.io/connect/</link>
+      <link>http://localhost:1313/connect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59458/pansyclub.github.io/connect/</guid>
+      <guid>http://localhost:1313/connect/</guid>
       <description>&lt;p&gt;We&amp;rsquo;d love to hear from you! For questions, collaborations, or to subscribe to our newsletter, please reach out:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:info@pansyclub.com&#34;&gt;info@pansyclub.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Visit us in person at our studio (address coming soon)&lt;/li&gt;&#xA;&lt;li&gt;Subscribe to our newsletter for updates on events and workshops.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Events</title>
-      <link>http://localhost:59458/pansyclub.github.io/events/</link>
+      <link>http://localhost:1313/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59458/pansyclub.github.io/events/</guid>
+      <guid>http://localhost:1313/events/</guid>
       <description>&lt;p&gt;Stay tuned for our upcoming arts and crafts workshops and community events! We regularly host in-person sessions for all skill levels. Check back soon for our event calendar and registration details.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Memberships</title>
-      <link>http://localhost:59458/pansyclub.github.io/memberships/</link>
+      <link>http://localhost:1313/memberships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59458/pansyclub.github.io/memberships/</guid>
+      <guid>http://localhost:1313/memberships/</guid>
       <description>&lt;p&gt;Become a member of Pansy Club to enjoy exclusive access to workshops, special events, and our creative community. Membership benefits include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Unlimited access to in-person workshops&lt;/li&gt;&#xA;&lt;li&gt;Priority event registration&lt;/li&gt;&#xA;&lt;li&gt;Members-only newsletter&lt;/li&gt;&#xA;&lt;li&gt;Discounts on materials and merchandise&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contact us to learn more about membership options and pricing.&lt;/p&gt;</description>
     </item>
   </channel>
